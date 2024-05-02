@@ -1,0 +1,7 @@
+C:\Temp2\leaningapp\bin\Publish\leaningapp.exe
+C:\Temp2\leaningapp\bin\Publish\appsettings.Development.json
+C:\Temp2\leaningapp\bin\Publish\appsettings.json
+C:\Temp2\leaningapp\bin\Publish\leaningapp.dll
+C:\Temp2\leaningapp\bin\Publish\leaningapp.deps.json
+C:\Temp2\leaningapp\bin\Publish\leaningapp.runtimeconfig.json
+C:\Temp2\leaningapp\bin\Publish\leaningapp.pdb
