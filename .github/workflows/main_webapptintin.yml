@@ -54,4 +54,4 @@ jobs:
           app-name: 'WebApptintin'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2BA94629F06746E5B60278691344934C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_87052FA59E9548829BEBEE6CF22984BA }}
